@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BALAJI1917
+- 👋 Hi, I’m @BALAJI1
 - 👀 I’m interested in ... programming
 - 🌱 I’m currently learning ...ethical hacking
 - 💞️ I’m looking to collaborate on ...
